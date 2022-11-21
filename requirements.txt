@@ -1,0 +1,7 @@
+cv2
+imutils
+pytesseract
+streamlit
+PIL
+io
+os
