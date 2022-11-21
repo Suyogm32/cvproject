@@ -1,7 +1,4 @@
-cv2
+opencv-python
 imutils
 pytesseract
 streamlit
-PIL
-io
-os
