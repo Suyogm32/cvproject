@@ -9,7 +9,7 @@ import os
 
 st.title("Number Plate Recognition")
 
-pytesseract.pytesseract.tesseract_cmd = 'C:\Program Files\Tesseract-OCR\\tesseract'
+# pytesseract.pytesseract.tesseract_cmd = 'C:\Program Files\Tesseract-OCR\\tesseract'
 
 
 def save_uploadedfile(uploadedfile):
