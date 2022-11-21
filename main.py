@@ -1,4 +1,4 @@
-import cv2
+import opencv as cv2
 import imutils
 import pytesseract
 import streamlit as st
